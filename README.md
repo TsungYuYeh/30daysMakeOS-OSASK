@@ -27,3 +27,9 @@ qemu/qemu.exe
 qemu/bios.bin
 qemu/SDL.dll
 and the other files in contextA is all LICENSE KL-01(author said )
+
+These web sites can be reference, they are all using the same source code for study:
+
+https://github.com/yourtion/30dayMakeOS
+https://github.com/sky5454/30daysMakeOS-Origin-ISOfiles
+https://github.com/SwordYork/slef
